@@ -2,8 +2,8 @@
 def game_hash
   hashketball = {
     :home =>
-    {:team_name}},
+    {:team_name},
     :away =>
-    {:team_name}}
+    {:team_name}
   }
 end
