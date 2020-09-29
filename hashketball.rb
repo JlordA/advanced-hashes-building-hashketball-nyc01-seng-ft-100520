@@ -1,3 +1,3 @@
 # Write your code here!
-def Hashketball
+def game_hash
 end
