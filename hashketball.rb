@@ -2,7 +2,7 @@
 def game_hash
   hashketball = {
     :home =>
-    {:team_name => Brooklyn Nets}, 
+    {:team_name => Brooklyn Nets} 
     :away =>
     {:team_name => Charlotte Hornets}
   }
