@@ -2,8 +2,8 @@
 def game_hash
   hashketball = {
     :home =>
-    {:team_name =>},
+    {:team_name => Brooklyn Nets},
     :away =>
-    {:team_name =>}
+    {:team_name => Charlotte Hornets}
   }
 end
